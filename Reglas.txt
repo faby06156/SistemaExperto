@@ -1,0 +1,10 @@
+Si es soleado entonces es un buen día
+Si está nublado o hace frío entonces puede llover
+Si llueve entonces no es soleado
+Si hay tormenta entonces no es seguro
+Si es de noche entonces no hay sol
+Si hace frío entonces lleva abrigo
+Si hace calor entonces usa protector solar
+Si nieva entonces hace mucho frío
+Si hay viento entonces vuela el polvo
+Si es soleado y hace calor entonces es verano
