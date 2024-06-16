@@ -1,0 +1,24 @@
+digraph {
+	S -> entonces
+	entonces -> B
+	S -> y
+	y -> C
+	C -> entonces
+	entonces -> V
+	L -> entonces
+	entonces -> "¬S"
+	"N ∨ F" -> entonces
+	entonces -> L
+	T -> entonces
+	entonces -> "¬P"
+	D -> entonces
+	entonces -> "¬H"
+	F -> entonces
+	entonces -> A
+	C -> entonces
+	entonces -> U
+	N -> entonces
+	entonces -> F
+	V -> entonces
+	entonces -> D
+}
